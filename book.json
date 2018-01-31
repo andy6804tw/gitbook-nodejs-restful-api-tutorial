@@ -6,13 +6,11 @@
     "search-plus"
   ],
   "pluginsConfig": {
-    "disqus": {
-      "shortName": "hel"
+    "theme-default": {
+      "showLevel": true
     },
-    "tbfed-pagefooter": {
-      "copyright": "&copy Taobao FED Team",
-      "modify_label": "该文件修订时间：",
-      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    "disqus": {
+      "shortName": "Node.js 從無到有，打造一個漂亮乾淨俐落的 RESTful API"
     }
   }
 }
