@@ -1,6 +1,5 @@
 {
   "plugins": [
-    "anchorjs",
     "disqus",
     "-lunr",
     "-search",
