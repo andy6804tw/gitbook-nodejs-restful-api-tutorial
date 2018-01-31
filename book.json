@@ -1,11 +1,16 @@
 {
   "plugins": [
-    "autocover"
+    "disqus",
+    "-lunr",
+    "-search",
+    "search-plus"
   ],
-  "links": {
-    "sidebar": {
-      "Contact us": "mailto:contact@gitbook.com"
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
+    },
+    "disqus": {
+      "shortName": "Node"
     }
-  },
-  "pluginsConfig": {}
+  }
 }
