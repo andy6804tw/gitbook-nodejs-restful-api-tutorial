@@ -1,14 +1,12 @@
 {
   "plugins": [
+    "autocover",
     "disqus",
     "-lunr",
     "-search",
     "search-plus"
   ],
   "pluginsConfig": {
-    "theme-default": {
-      "showLevel": true
-    },
     "disqus": {
       "shortName": "Node"
     }
