@@ -1,11 +1,13 @@
 {
   "plugins": [
     "disqus",
+    "-lunr",
+    "-search",
     "search-plus"
   ],
   "pluginsConfig": {
     "disqus": {
-      "shortName": "andy6804tw"
+      "shortName": "hel"
     }
   }
 }
