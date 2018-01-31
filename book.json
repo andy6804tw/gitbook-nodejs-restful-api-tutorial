@@ -3,7 +3,7 @@
     "disqus",
     "-lunr",
     "-search",
-    "search-plus","expand-active-chapter"
+    "search-plus"
   ],
   "pluginsConfig": {
     "theme-default": {
