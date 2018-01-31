@@ -1,6 +1,7 @@
 {
   "plugins": [
-    "disqus"
+    "disqus",
+    "search-plus"
   ],
   "pluginsConfig": {
     "disqus": {
