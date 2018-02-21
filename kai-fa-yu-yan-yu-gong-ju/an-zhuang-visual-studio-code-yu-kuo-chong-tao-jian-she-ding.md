@@ -1,5 +1,5 @@
 ## 介紹 Visual Studio Code
-大家好歡迎來到這一系列的文章，為了維持後面文章的統一性我在這邊特別寫一篇編輯器的安裝與推薦的擴充套件與環境設定，打造一個方便的開發環境，為什麼我會選擇它呢？原因在於 Visual Studio Code 有強大的編輯功能，因為是開源的專案所以更新速度頻繁擴充套件的資源也很豐富，而且內建終端機與版本控制整個開發過程在同一個視窗就能完成。市面上的編輯器有很多例如： [Visual Studio Code](https://code.visualstudio.com/)、[Sublime Text](https://www.sublimetext.com/)、[Atom](https://atom.io/)、[vim](https://vim.sourceforge.io/download.php)、[Notepad++](https://notepad-plus-plus.org/zh/) ......等，各位可以依據自己的喜好安裝一個自己適合的編輯環境。
+打造一個方便的開發環境，為什麼我會選擇它呢？原因在於 Visual Studio Code 有強大的編輯功能，因為是開源的專案所以更新速度頻繁擴充套件的資源也很豐富，而且內建終端機與版本控制整個開發過程在同一個視窗就能完成。市面上的編輯器有很多例如： [Visual Studio Code](https://code.visualstudio.com/)、[Sublime Text](https://www.sublimetext.com/)、[Atom](https://atom.io/)、[vim](https://vim.sourceforge.io/download.php)、[Notepad++](https://notepad-plus-plus.org/zh/) ......等，各位可以依據自己的喜好安裝一個自己適合的編輯環境。
 
 Visual Studio Code 由 2015 年微軟所開發的一個開源軟體，它同時支援 Windows、Linux 和 macOS 作業系統的開源文字編輯器。它支援偵錯，內建了Git 版本控制功能，同時也具有開發環境功能，例如代碼補全、代碼片段、代碼重構等。
 

@@ -63,5 +63,5 @@ Airbnb 開發團隊在撰寫 JavaScript 部分規定了大量的寫作風格與�
 
 ## 關鍵字（Keywords）
 
-Node.js
+Node.js、API、RESTful、HTTP Request、MVC、Visual Studio Code、npm
 
