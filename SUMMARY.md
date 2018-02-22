@@ -13,4 +13,5 @@
 * [安裝 Visual Studio Code 與擴充套件設定](kai-fa-yu-yan-yu-gong-ju/an-zhuang-visual-studio-code-yu-kuo-chong-tao-jian-she-ding.md)
 * [Node.js 入門介紹](kai-fa-yu-yan-yu-gong-ju/nodejs-ru-men-jie-shao.md)
 * [npm 套件管理工具](kai-fa-yu-yan-yu-gong-ju/npm-tao-jian-guan-li-gong-ju.md)
+* [用Yarn取代npm加速開發](kai-fa-yu-yan-yu-gong-ju/yong-yarn-qu-dai-npm-jia-su-kai-fa.md)
 
