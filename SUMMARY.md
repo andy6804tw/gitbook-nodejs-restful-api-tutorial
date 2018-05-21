@@ -17,4 +17,7 @@
 ## 基礎教學 JavaScript ES6
 
 * [JavaScript基礎篇\(1\)](ji-chu-jiao-xue-javascript-es6/javascriptji-chu-7bc728-1.md)
+* [JavaScript基礎篇\(2\)](ji-chu-jiao-xue-javascript-es6/javascriptji-chu-7bc728-2.md)
+* [JavaScript基礎篇\(3\)](ji-chu-jiao-xue-javascript-es6/javascriptji-chu-7bc728-3.md)
+* [JavaScript基礎篇\(4\)](ji-chu-jiao-xue-javascript-es6/javascriptji-chu-7bc728-4.md)
 
