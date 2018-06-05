@@ -24,13 +24,13 @@
 
 |欄位     |型態   |備註  |
 | --- | ----- | ---- |
-article_id|int(11)|文章id
-user_id|int(11)|用戶id
-article_title|varchar(255)|文章標題
-article_tag|varchar(255)|文章標籤
-article_content|text|文章內容
-article_created_time|datetime|文章發佈時間
-article_updated_time|datetime|文章更新時間
+|article_id|int(11)|文章id
+|user_id|int(11)|用戶id
+|article_title|varchar(255)|文章標題
+|article_tag|varchar(255)|文章標籤
+|article_content|text|文章內容
+|article_created_time|datetime|文章發佈時間
+|article_updated_time|datetime|文章更新時間
 
 ![https://ithelp.ithome.com.tw/upload/images/20171231/20107247QDSzrMTG04.png](https://ithelp.ithome.com.tw/upload/images/20171231/20107247QDSzrMTG04.png)
 
@@ -40,12 +40,12 @@ article_updated_time|datetime|文章更新時間
 
 |欄位     |型態   |備註  |
 | --- | ----- | ---- |
-user_id|int(11)|用戶id
-user_name|varchar(255)|用戶姓名
-user_mail|varchar(255)|用戶信箱
-user_password|varchar(255)|用戶密碼
-user_created_time|datetime|用戶新增時間
-user_updated_time|datetime|用戶更新時間
+|user_id|int(11)|用戶id
+|user_name|varchar(255)|用戶姓名
+|user_mail|varchar(255)|用戶信箱
+|user_password|varchar(255)|用戶密碼
+|user_created_time|datetime|用戶新增時間
+|user_updated_time|datetime|用戶更新時間
 
 ![https://ithelp.ithome.com.tw/upload/images/20171231/20107247kMvMhTFmN6.png](https://ithelp.ithome.com.tw/upload/images/20171231/20107247kMvMhTFmN6.png)
 

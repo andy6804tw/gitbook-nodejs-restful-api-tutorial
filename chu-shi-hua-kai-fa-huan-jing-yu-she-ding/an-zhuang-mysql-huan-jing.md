@@ -29,20 +29,20 @@
 
 |Id     |Name   |Status  |
 | :---: | :-----: | :----: |
-  1    |  Andy  |       1
-  2    |   Jack  |      0
-  3    |   Mary  |      1
-  4    |  Tom    |      1
+|  1    |  Andy  |       1
+|  2    |   Jack  |      0
+|  3    |   Mary  |      1
+|  4    |  Tom    |      1
 
 文章(Article)
 
 |Id     |Uid  |Title  |
 |:---: |:----:| :----: |
-  1    |  1  |   Title1
-  2    |  1  |   Title2
-  3    |  2  |   Title3
-  4    |  3  |   Title4
-  4    |  4  |   Title5
+|  1    |  1  |   Title1
+|  2    |  1  |   Title2
+|  3    |  2  |   Title3
+|  4    |  3  |   Title4
+|  4    |  4  |   Title5
 
 **Example 1.** 
 
