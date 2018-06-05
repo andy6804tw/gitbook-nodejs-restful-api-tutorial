@@ -144,6 +144,7 @@ console.log(filter(1, 2, 3));
 - 解構解構允許你拉出單個元素或屬性，並將他們儲存在數組的變數中
 
 - Array Destructuring
+
 ```js
 const numbers = [1, 2, 3];
 const [num1, num2] = numbers;
@@ -154,6 +155,7 @@ console.log(num1, num2);
 ## Reference and Primitive Types
 
 - 變數參數傳值(passed by value)
+
 ```js
 let num1 = 1;
 const num2 = num1;
@@ -164,6 +166,7 @@ console.log(num1, num2);
 > output: 2 1
 
 - 物件傳址(passed by reference)
+
 ```js
 const person = {
   name: 'Andy'
