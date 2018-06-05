@@ -52,7 +52,17 @@
 * [使用JWT來存取API內容\(上\)](shi-zuo/shi-yong-jwt-lai-cun-qu-api-nei-5bb928-4e0a29.md)
 * [使用JWT來存取API內容\(下\)](shi-zuo/shi-yong-jwt-lai-cun-qu-api-nei-5bb928-4e0b29.md)
 * [使用JWT來存取API內容\(總結\)](shi-zuo/shi-yong-jwt-lai-cun-qu-api-nei-5bb928-zong-7d5029.md)
+
+## 單元測試&準備上線
+
 * [使用mocha來做單元測試](shi-zuo/shi-yong-mocha-lai-zuo-dan-yuan-ce-shi.md)
 * [使用 ngrok 讓外網連接你的 API](shi-zuo/shi-yong-ngrok-rang-wai-wang-lian-jie-ni-de-api.md)
 * [使用forever運行API永遠不停止](shi-zuo/shi-yong-forever-yun-xing-api-yong-yuan-bu-ting-zhi.md)
+
+## 雲端服務平台部署
+
+* [Google Cloud Platform\(1\)-免費開通試用雲端服務](yun-duan-fu-wu-ping-tai-bu-shu/google-cloud-platform1mian-fei-kai-tong-shi-yong-yun-duan-fu-wu.md)
+* [Google Cloud Platform\(2\)-建立專案與VM部署](yun-duan-fu-wu-ping-tai-bu-shu/google-cloud-platform2jian-li-zhuan-an-yu-vm-bu-shu.md)
+* [Google Cloud Platform\(3\)-建立SQL雲端資料庫](yun-duan-fu-wu-ping-tai-bu-shu/google-cloud-platform3jian-li-sql-yun-duan-zi-liao-ku.md)
+* [Google Cloud Platform\(4\)-API測試](yun-duan-fu-wu-ping-tai-bu-shu/google-cloud-platform4-apice-shi.md)
 
