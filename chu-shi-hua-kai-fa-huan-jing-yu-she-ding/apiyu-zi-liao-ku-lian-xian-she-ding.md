@@ -1,4 +1,4 @@
-本文你將會學到
+## 本文你將會學到
 - joi + dotenv  建立資料庫全域變數
 - 使用 mysql 建立 Connection Pool(連線池) 
 - 測試 API 是否與資料庫連線成功

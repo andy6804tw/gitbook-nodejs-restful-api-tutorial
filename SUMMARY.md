@@ -38,3 +38,21 @@
 * [設定joi與config dotenv環境參數](chu-shi-hua-kai-fa-huan-jing-yu-she-ding/she-ding-joi-yu-config-dotenv-huan-jing-can-shu.md)
 * [API與資料庫連線設定](chu-shi-hua-kai-fa-huan-jing-yu-she-ding/apiyu-zi-liao-ku-lian-xian-she-ding.md)
 
+## 實作
+
+* [Article文章\(GET與POST\)](shi-zuo/articlewen-7ae028-get-yu-post.md)
+* [Article文章\(PUT與DELETE\)](shi-zuo/articlewen-7ae028-put-yu-delete.md)
+* [User用戶\(GET與POST\)](shi-zuo/useryong623628-get-yu-post.md)
+* [User用戶\(PUT與DELETE\)](shi-zuo/useryong-623628-put-yu-delete.md)
+* [使用 joi 驗證POST資料](shi-zuo/shi-yong-joi-yan-zheng-post-zi-liao.md)
+* [bcrypt將使用者密碼加密](shi-zuo/bcryptjiang-shi-yong-zhe-mi-ma-jia-mi.md)
+* [使用者登入與密碼驗證](shi-zuo/shi-yong-zhe-deng-ru-yu-mi-ma-yan-zheng.md)
+* [自定義API Error拋出錯誤訊息](shi-zuo/zi-ding-yi-api-error-pao-chu-cuo-wu-xun-xi.md)
+* [使用JWT取代傳統Session來驗證使用者身份](shi-zuo/shi-yong-jwt-qu-dai-chuan-tong-session-lai-yan-zheng-shi-yong-zhe-shen-fen.md)
+* [使用JWT來存取API內容\(上\)](shi-zuo/shi-yong-jwt-lai-cun-qu-api-nei-5bb928-4e0a29.md)
+* [使用JWT來存取API內容\(下\)](shi-zuo/shi-yong-jwt-lai-cun-qu-api-nei-5bb928-4e0b29.md)
+* [使用JWT來存取API內容\(總結\)](shi-zuo/shi-yong-jwt-lai-cun-qu-api-nei-5bb928-zong-7d5029.md)
+* [使用mocha來做單元測試](shi-zuo/shi-yong-mocha-lai-zuo-dan-yuan-ce-shi.md)
+* [使用 ngrok 讓外網連接你的 API](shi-zuo/shi-yong-ngrok-rang-wai-wang-lian-jie-ni-de-api.md)
+* [使用forever運行API永遠不停止](shi-zuo/shi-yong-forever-yun-xing-api-yong-yuan-bu-ting-zhi.md)
+
