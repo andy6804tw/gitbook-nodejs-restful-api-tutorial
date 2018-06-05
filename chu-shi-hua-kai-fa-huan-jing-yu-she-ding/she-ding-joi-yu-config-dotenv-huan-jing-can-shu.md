@@ -98,4 +98,5 @@ joi 就好比是一個驗證器，你可以自己規範 schema 來限制資料�
 
 
 範例程式碼：https://github.com/andy6804tw/RESTful_API_start_kit/releases/tag/V5.0.0
+
 文章同時發表於：https://andy6804tw.github.io/2018/01/01/joi-config-dotenv/
