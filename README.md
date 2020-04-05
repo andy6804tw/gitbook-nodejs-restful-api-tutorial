@@ -1,5 +1,13 @@
 # 從無到有，打造一個漂亮乾淨俐落的 RESTful API 
 
+## 2020/04/05 更新
+感謝大家的支持與鼓勵!本人最近開設YouTube頻道，打算會拍攝一系列Node.js API手把手教學。順便更新 `RESTful_API_start_kit` 內容正在設計中，請各位期待~
+
+想要了解更多的朋友歡迎關注我的頻道，您的訂閱就是最大的支持～如果想學其他什麼內容也歡迎許願XD
+
+<a href="https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A" target="_blank">
+    <img src="https://media0.giphy.com/media/KFnSuizdGVCtkVFOXM/source.gif" width="15%"></a>
+
 ## 前言
 
 哈囉大家好～今年是我第一次參與鐵人賽活動，想藉由這次機會，將我在這一年所學貢獻出來，和大家一起學習，此外為何我會選擇這個主題呢？主要原因是在工作實習部分負責 Node.js API 的撰寫，在這一年中學習到許多新知所以想就由這次鐵人賽寫出一系列網頁後端教學，帶給想進入網頁後端但不知如何下手的人，在 30 天的文章中我會從最基礎的編輯器推薦、語言選擇、環境建置、框架介紹、自動化部署、資料庫架設、到一個簡單的部落格貼文 API 範例實作，若時間允許的話還會介紹Google Cloud Platform 伺服器的架設，內容看似很多很豐富但這也是給我自己一個挑戰，最後希望帶給各位讀著滿滿的 大 收 穫！
